@@ -1,0 +1,4 @@
+Python GUI
+- modern sllek look and feel
+- Selectable default  paths, be able to add and save your own paths
+- create code to add to a node red function node or a python script 
